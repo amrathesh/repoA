@@ -1,0 +1,4 @@
+[submodule "RepoB"]
+	path = RepoB
+	url = https://github.com/amrathesh/repoB
+	branch = main
